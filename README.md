@@ -34,6 +34,13 @@ The Farm Stand application is built using the following technologies:
 - [Mongoose](https://mongoosejs.com/) - An ODM (Object Data Modeling) library for MongoDB.
 - [EJS]()https://ejs.co/ - A templating engine for rendering views.
 
+## Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/try/download/community)
+  
 ## Installation
 
 Farm Stand requires [Node.js](https://nodejs.org/) v10+ to run.
