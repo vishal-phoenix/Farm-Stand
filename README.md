@@ -32,7 +32,7 @@ The Farm Stand application is built using the following technologies:
 - [Express.js](https://expressjs.com/) - A Node.js web application framework.
 - [MongoDB](https://www.mongodb.com/) - A NoSQL database for storing product information.
 - [Mongoose](https://mongoosejs.com/) - An ODM (Object Data Modeling) library for MongoDB.
-- [EJS]()https://ejs.co/ - A templating engine for rendering views.
+- [EJS](https://ejs.co/) - A templating engine for rendering views.
 
 ## Prerequisites
 
